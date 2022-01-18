@@ -1,0 +1,75 @@
+
+.custom{
+  bottom: 0 !important;
+  float: none !important;
+  height: 100vh !important;
+  left: 1116px !important;
+  position: fixed !important;
+  top: 57px !important;
+  float: right !important;
+}
+
+.con{
+  margin-left: 0 !important;
+}
+.nav{
+  margin-left: 0 !important;
+}
+
+.navl{
+  float: left !important;
+  left: 0 !important;
+}
+.navr{
+  float: right !important;
+  right: 0 !important;
+}
+
+.user-panel img {
+    height: auto;
+    width: 2.1rem;
+    margin-right: 40px;
+}
+.content {
+    width: 1143px;
+}
+.brand-text{
+  position: absolute !important;
+  right: 60px;
+    top: 0px;
+
+}
+.x{
+  position: absolute;
+left: 45px;
+bottom: 7px;
+}
+.y{
+  float: left !important;
+  max-height: 5px !important;
+}
+.content-header {
+    width: 1125px;
+    background-color: #F4F6F9;
+        height: 82px;
+}
+.card-title {
+  float: right;
+}
+.card-body{
+  direction: rtl;
+}
+.table {
+width: 900px !important;
+    column-width: 10px !important;
+
+}
+.table td, .table th{
+  padding:8px !important;
+}
+
+.main-header .navbar-nav .nav-item {
+    margin: 0;
+    right: 964px;
+
+    }

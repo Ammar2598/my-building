@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+*{
+  font-family: 'Droid Arabic Kufi', serif;
+  font-size: 95%;
+}
+.btn{
+  font-size: 10px;
+}
+h2, .h2{
+  font-size: 20px;
+}
