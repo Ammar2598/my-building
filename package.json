@@ -9,4 +9,8 @@
     "laravel-elixir": "^5.0.0",
     "bootstrap-sass": "^3.0.0"
   }
+   "post-install-cmd": [
+     "php artisan clear-compiled",
+     "chmod -R 777 public/"
+ ]
 }
